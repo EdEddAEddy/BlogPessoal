@@ -42,6 +42,21 @@ public class Usuario {
 	@JsonIgnoreProperties("usuario")
 	private List<Postagem> postagem;
 
+	public Usuario(long l, String string, String string2, String string3, Object object) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Usuario(Long id, String nome, String usuario, String senha, String foto) {
+		this.id = id;
+		this.nome = nome;
+		this.usuario = usuario;
+		this.senha = senha;
+		this.foto = foto;
+	}
+
+	public Usuario() {
+	}
+
 	public Long getId() {
 		return id;
 	}
@@ -90,6 +105,4 @@ public class Usuario {
 		this.postagem = postagem;
 	}
 
-	
-	
 }
