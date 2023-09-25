@@ -50,7 +50,7 @@ Este é um projeto de API REST para um Blog Pessoal que permite aos usuários au
 ### Uso
 - Certifique-se de que o servidor está em execução.
 - Use ferramentas como o Postman ou faça solicitações HTTP para a API nos endpoints correspondentes.
-- Consulte a documentação da API (Swagger) para obter detalhes sobre como usar cada recurso, acessando https://blogpessoal-d11u.onrender.com/.
+- Consulte a documentação da API (Swagger) para obter detalhes sobre como usar cada recurso, acessando https://blogpessoal-d11u.onrender.com/. **USUARIO: root@root.com** **SENHA: rootroot**
 
 ## Endpoints da API
 ### Autenticação de Usuário
@@ -73,6 +73,6 @@ Este é um projeto de API REST para um Blog Pessoal que permite aos usuários au
 - **DELETE /temas/{id}**: Exclui um tema.
 
 ### Documentação da API (Swagger)
-Acesse a documentação da API em https://blogpessoal-d11u.onrender.com/.
+Acesse a documentação da API em https://blogpessoal-d11u.onrender.com/. **USUARIO: root@root.com** **SENHA: rootroot**
 
 Este é um resumo do projeto "Blog Pessoal API REST". Certifique-se de ajustar as configurações e dependências de acordo com suas necessidades antes de executar o projeto.
